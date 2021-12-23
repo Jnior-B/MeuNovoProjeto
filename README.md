@@ -13,7 +13,7 @@ A entrada contém um número inteiro **M** (0 ≤ **M** ≤ 360) representando o
 ## SAÍDA
 
 Imprima uma saudação referente ao período do dia que ele se encontra: "Boa Tarde!!", "Boa Noite!!", "Bom Dia!!" e "De Madrugada!!".
-
+ ________________________________
 | ENTRADA(int) | SAIDA           |
 | ------------ | --------------- |
 | 0            | BOM DIA !!      |
@@ -25,13 +25,11 @@ Imprima uma saudação referente ao período do dia que ele se encontra: "Boa Ta
 | 270          | DE MADRUGADA !! |
 | 359          | DE MADRUGADA !! |
 | 360          | BOM DIA !!      |
+|______________|________________ |
+ 
 
 
 
-| DESAFIO                                               | CONQUISTAS                                                   |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| :---------------------------------------------------- | :--------------------------------------------------------------------- |
-|                                                       |                                                              |
 
 
 
